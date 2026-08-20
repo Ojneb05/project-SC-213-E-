@@ -47,6 +47,10 @@ body {
     text-align: center;
     margin-right: 15px;
 }
+.links a:hover {
+    color: rgb(3, 217, 255);
+    transform: scale(0.8);
+}
 .links a.header-highlight{
         color: rgb(255, 255, 255);
     font-size: 15px;
@@ -66,4 +70,23 @@ body {
     cursor: pointer;
     border-radius: 5px;
     margin-left: 10px;
+}
+.login-button {
+    background-color: #004b73;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: 1px solid rgb(255, 255, 255);
+}
+.login-button:hover, .signup-button:hover {
+    transform: scale(0.8);
+}
+.landingpage-container {
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    background-color: #f5f5f5;
 }
