@@ -90,3 +90,40 @@ body {
     align-items: top;
     background-color: #f5f5f5;
 }
+.landingpage-H1 {
+    font-size: 50px;
+    color: #070707;
+    margin-bottom: 20px;
+    padding-left: 40px;
+}
+.landingpage-h1 {
+    font-size: 40px;
+    color: #0049b8;
+    margin-bottom: 20px;
+    padding-left: 40px;   
+    margin-top: -20px; 
+}
+.landingpage-p {
+    font-size: 20px;
+    color: #070707;
+    margin-bottom: 20px;
+    padding-left: 40px;   
+}
+.search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+    margin-left: 40px;
+}
+.search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0049b8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
