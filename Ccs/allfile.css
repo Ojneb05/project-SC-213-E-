@@ -19,7 +19,7 @@ body {
     font-style: normal;
     margin-top: 0px;     /* push down */
     margin-bottom: 0px;  /* push up from below */
-    margin-left: 15px;    /* push right */
+    margin-left: 20px;    /* push right */
     margin-right: 0px;   /* push left */
 }
 .headerP {
@@ -29,7 +29,7 @@ body {
     text-align: center;
     margin-top: 0px;     /* push down */
     margin-bottom: 0px;  /* push up from below */
-    margin-left: 15px;    /* push right */
+    margin-left: 20px;    /* push right */
     margin-right: 0px;   /* push left */
 }
 .logo{
