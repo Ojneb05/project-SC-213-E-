@@ -4,3 +4,8 @@
     font-style: normal;
     margin: 0;
 }
+.logo {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+}
