@@ -38,27 +38,21 @@ body {
     margin-left: 30px;    
     margin-right: 0px;   
 }
-.header-highlight {
-    color: rgb(255, 255, 255);
-    font-size: 17px;
-    font-style: normal;
-    text-align: center;
-    margin-top: 15px;       
-    margin-left: 500px;    
-}
-.header-highlight:hover {
+.header-highlight{
     color: rgb(10, 135, 184);
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
-    text-align: center;
-    margin-top: 15px;       
+    text-align: center;       
     margin-left: 500px;    
+    border-radius: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.842);
 }
 .links a {
     display: inline-block;
-    margin: 0;
-    padding: 4px;
-    color: #ffffff;
     text-decoration: none;
-    font-family: Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-style: normal;
+    text-align: center;   
+    margin-left: 500px;
 }
