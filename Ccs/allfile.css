@@ -54,3 +54,11 @@ body {
     margin-top: 15px;       
     margin-left: 500px;    
 }
+.links a {
+    display: inline-block;
+    margin: 0;
+    padding: 4px;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
