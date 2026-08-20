@@ -2,6 +2,15 @@
     align-items: center;
 }
 body {
-    background-color: #d57c7c;
+    background-color: #0D47A1;
     font-family: Arial, sans-serif;
+}
+.login-header {
+    background: #01273b;
+    padding: 5px;
+    display: flex;
+    position: sticky;
+    top: 0;
+    justify-content: space-between;
+    align-items: center;
 }
